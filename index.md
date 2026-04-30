@@ -1,4 +1,7 @@
-Rico Davis
+---
+layout: default
+title: Rico Davis 
+---
 # Curriculum Vitae
 
 **London, United Kingdom · <ricoericfitzroydavis@gmail.com> · +44 7562 543388 · [LinkedIn](https://www.linkedin.com/in/rcodavis)**
