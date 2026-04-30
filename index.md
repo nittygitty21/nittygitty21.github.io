@@ -1,11 +1,6 @@
 Rico Davis
----
-layout: default
-title: Curriculum Vitae
----
 
-# Rico Davis
-**London, United Kingdom · ricoericfitzroydavis@gmail.com · +44 7562 543388 · [LinkedIn](https://www.linkedin.com/in/rcodavis)**
+**London, United Kingdom · <ricoericfitzroydavis@gmail.com> · +44 7562 543388 · [LinkedIn](https://www.linkedin.com/in/rcodavis)**
 
 ## Professional Summary
 Motivated and detail-oriented final-year university student with strong interpersonal, organisational, and communication skills. Experienced supervising teams, supporting daily operations, and delivering high-quality customer service in fast-paced environments. Proficient in Microsoft Excel for data entry, organisation, and basic reporting, and certified in Google Analytics. Reliable, professional, and quick to learn, seeking an opportunity to apply transferable skills in a growth-oriented environment.
@@ -13,7 +8,7 @@ Motivated and detail-oriented final-year university student with strong interper
 ## Professional Experience
 
 ### Openwide International
-**Supervisor (Full-Time)** · Bournemouth · 06/2024 – 09/2024
+**Supervisor (Full-Time)** · Bournemouth · 06/2024 – 09/2025
 - Supervised and coordinated team members to ensure smooth daily operations.
 - Delivered training and onboarding support to new staff.
 - Managed schedules, delegated tasks, and resolved team issues.
